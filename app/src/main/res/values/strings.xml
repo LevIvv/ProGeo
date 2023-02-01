@@ -1,0 +1,52 @@
+<resources>
+    <string name="string_appname">ProGeo</string>
+    <string name="string_game_mode">Режим игры:</string>
+    <string name="button_check">Проверить</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Возобновить игру</string>
+    <string name="tomenu">В меню</string>
+    <string name="sound">Звук</string>
+    <string name="is_return_to_menu">Вы действительно хотите вернуться в меню?</string>
+    <string name="warning">Предупреждение</string>
+    <string name="warningProgress">Весь несохранённый прогресс не будет учтён. Вы действительно хотите продолжить?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="rightChoiseQuantity">Верно:</string>
+    <string name="scoreQuantity">Очков:</string>
+    <string name="scoreQuantity0">Очков: 0</string>
+    <string name="tryagain">Сыграть ещё</string>
+    <string name="score">Набрано очков:</string>
+    <string name="record">Рекорд:</string>
+    <string name="abouthintstitle">Привет!</string>
+    <string name="singlePlayerMode">Один игрок</string>
+    <string name="multiPlayerMode">Два игрока</string>
+
+    <string name="player1win">Игрок 1 победил!</string>
+    <string name="player2win">Игрок 2 победил!</string>
+    <string name="draw12">Ничья!</string>
+    <string name="close">Закрыть</string>
+
+    <string-array name="choisePlayerMode">
+        <item>Один игрок</item>
+        <item>Два игрока</item>
+    </string-array>
+    <string-array name="choiseGameMode">
+        <item>Столицы</item>
+        <item>Страны</item>
+        <item>Флаги стран</item>
+    </string-array>
+    <string-array name="positive_replics">
+        <item>Просто превосходно!</item>
+        <item>Отлично!</item>
+        <item>Так держать!</item>
+        <item>Успех!</item>
+        <item>Да вы географ!</item>
+    </string-array>
+    <string-array name="negative_replics">
+        <item>Не стоит расстраиваться!</item>
+        <item>Не пытайтесь повторить!</item>
+        <item>В слудеющий раз повезёт!</item>
+        <item>Попробуйте ещё, у вас получится!</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.progeo">
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/string_appname"
+        android:largeHeap="true"
+        tools:ignore="GoogleAppIndexingWarning"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+    <activity
+        android:name="com.example.progeo.MainActivity"
+        android:screenOrientation="portrait">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+
+    <activity
+        android:name="com.example.progeo.capitalsandcountries.ActivityCapAndCountries"
+        android:screenOrientation="portrait" />
+    <activity
+        android:name="com.example.progeo.flags.ActivityFlags"
+        android:screenOrientation="portrait" />
+
+
+    <activity
+        android:name="com.example.progeo.PauseActivity"
+        android:screenOrientation="portrait" />
+
+    <activity
+        android:name="com.example.progeo.capitalsandcountries.ActivityGameEnded"
+        android:screenOrientation="portrait" />
+
+    <activity
+        android:name="com.example.progeo.flags.ActivityGameEnded"
+        android:screenOrientation="portrait" />
+    </application>
+
+
+</manifest>
+
+

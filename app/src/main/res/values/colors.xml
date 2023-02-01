@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clrPrimary">#6DC61E</color>
+    <color name="clrPrimaryDark">#359500</color>
+    <color name="clrAccent">#6DC61E</color>
+    <color name="clrMainTitle">#2575F2</color>
+    <color name="clrRed">#D74446</color>
+    <color name="clrBlue">#3B87FF</color>
+    <color name="clrOrange">#FF9800</color>
+    <color name="dark">#000000</color>
+
+</resources>
